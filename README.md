@@ -1,3 +1,7 @@
+## The project is deployed and available through the link below. Click or Copy link to visit: 
+[https://movies-center.vercel.app/](https://movies-center.vercel.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

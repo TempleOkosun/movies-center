@@ -23,7 +23,7 @@ export function MovieDetail(){
         }
     }
 
-    useEffect(() => {
+    useEffect( () => {
         getMovie()
     }, [id])
 
